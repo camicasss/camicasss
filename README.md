@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi there, I'm Camila 👋
 
-<!--
-**camicasss/camicasss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Engineering student at Universidad Nacional de Colombia  
+🌎 Native in **English** and **Spanish**  
+💻 Skilled in **Java** and **Python**  
+💡 Interested in **Cybersecurity, Artificial Intelligence, and Software Development**  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📈 GitHub Stats
+![Camila's GitHub stats](https://github-readme-stats.vercel.app/api?username=camicasss&show_icons=true&theme=radical)
+
+---
+
+## 🌐 Connect with Me
+- [Email](mailto:mcastropo@unal.edu.co)  
