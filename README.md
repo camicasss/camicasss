@@ -7,10 +7,5 @@
 
 ---
 
-## 📈 GitHub Stats
-![Camila's GitHub stats](https://github-readme-stats.vercel.app/api?username=camicasss&show_icons=true&theme=radical)
-
----
-
 ## 🌐 Connect with Me
 - [Email](mailto:mcastropo@unal.edu.co)  
